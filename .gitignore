@@ -1,0 +1,9 @@
+.env
+.tmp/
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+.venv/
+credentials.json
+service_account.json
