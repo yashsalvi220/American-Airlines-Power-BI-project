@@ -79,3 +79,9 @@ Every failure strengthens the system:
 5. **Continue** with a more robust system
 
 This loop is how the framework gets better over time without manual intervention.
+
+## Active Workflows
+
+| Workflow | Description | Entry Point |
+|----------|-------------|-------------|
+| [LinkedIn Lead Scraper](workflows/linkedin_lead_scraper.md) | Find LinkedIn contacts by profession & location, export to Google Sheets | `python tools/lead_pipeline.py --profession "…" --location "…"` |
